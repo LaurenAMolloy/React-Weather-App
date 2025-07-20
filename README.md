@@ -1,5 +1,6 @@
 # React-Weather-App
-![weather app cover]()
+![weather app cover](src/assets/weather_dark.png)
+![weather app cover](src/assets/weather_dark_2.png)
 
 <h2 align="center">Web application to show the current and upcoming weather forecast.</h2> 
 
