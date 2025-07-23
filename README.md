@@ -1,23 +1,63 @@
-# React-Weather-App
-![weather app cover](src/assets/weather_dark.png)
-![weather app cover](src/assets/weather_dark_2.png)
+# React Weather App
 
-<h2 align="center">Web application to show the current and upcoming weather forecast.</h2> 
+## Table of contents
 
-[Live Site](https://react-weather-app-nled.onrender.com)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Skills](#skills)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 
-## 🚀 Features
+## Overview
+
+This is a weather app built with React19 and Vite. 
+
+### The challenge
+
+Users should be able to:
+
 - Saving the weather data in context
 - Search weather details according to the city
 - Current forecast and next 24 hours available
 - Responsive for every screen size.
-- dark mode toggle
-<br/>
+- Dark mode toggle
+
+### Screenshot
+![weather app cover](src/assets/weather_dark.png)
+![weather app cover](src/assets/weather_dark_2.png)
+
+### Links
+
+- Solution URL: (https://github.com/LaurenAMolloy/React-Weather-App)
+- Live Site URL: (https://react-weather-app-nled.onrender.com)
+
+### Built with
+
+- React
+- Vite
+- JavaScript
+- Semantic HTML5 markup
+- Flexbox
+- Visual Studio Code
+
+### Skills 
+
+I have practiced many skills and concepts during the build of this project. I utilised React hooks and concepts such as custom hooks, useContext, useEffect and useState.
+
+### Continued development
+
+Moving forward I would like to continue learning about reusability, further my understanding of React Router and create more MPA's.
+
+### Useful resources
+
+- [Open Weather API ](https://openweathermap.org/) - This is the open weather API.
+
 
 ## Getting Started
-
-This project was built using React v 19 It is a web application and for running on your local environment you should follow these guidelines.
-
 
 ### Prerequisites
 
@@ -71,9 +111,3 @@ To run the application, run the following command:
 npm run dev
 ```
 
-### Tools used on this project
-
-- Visual Studio Code
-- Vite Js React Template
-
-<br/>
